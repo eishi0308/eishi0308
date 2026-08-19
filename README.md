@@ -96,6 +96,7 @@ const eishi: SoftwareEngineer = {
 
 ### 🍽️ &nbsp;DecideMyMeal &nbsp;·&nbsp; *Kill decision fatigue at dinner time*
 
+<a href="https://decidemymeal.com"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-FF6B9D?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="https://github.com/eishi0308/PickMyMeal"><img src="https://img.shields.io/badge/%F0%9F%93%82%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
 
@@ -287,6 +288,7 @@ const eishi: SoftwareEngineer = {
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://github.com/eishi0308"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://matchascope.vercel.app"><img src="https://img.shields.io/badge/MATCHASCOPE-00C9A7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://decidemymeal.com"><img src="https://img.shields.io/badge/DECIDEMYMEAL-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 
 <br/><br/>
 
