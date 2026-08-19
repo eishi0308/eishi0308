@@ -76,7 +76,7 @@ const eishi: SoftwareEngineer = {
 
 ### 🍵 &nbsp;MatchaScope &nbsp;·&nbsp; *Is your matcha actually from Japan?*
 
-<a href="https://matchascope.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-00C9A7?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://matchascope.com"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-00C9A7?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="https://github.com/eishi0308/matcha-license"><img src="https://img.shields.io/badge/%F0%9F%93%82%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
 
@@ -118,6 +118,7 @@ const eishi: SoftwareEngineer = {
 
 ### 🧊 &nbsp;Fridgely &nbsp;·&nbsp; *Your fridge, but it thinks*
 
+<a href="https://fridely.netlify.app/inventory"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-8E2DE2?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="https://github.com/eishi0308/ecopallet-next"><img src="https://img.shields.io/badge/%F0%9F%93%82%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
 
@@ -286,10 +287,11 @@ const eishi: SoftwareEngineer = {
 <div align="center">
 
 <a href="mailto:eishi.stab@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/eishi-sano-8c/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://github.com/eishi0308"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://matchascope.vercel.app"><img src="https://img.shields.io/badge/MATCHASCOPE-00C9A7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://matchascope.com"><img src="https://img.shields.io/badge/MATCHASCOPE-00C9A7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://decidemymeal.com"><img src="https://img.shields.io/badge/DECIDEMYMEAL-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://fridely.netlify.app/inventory"><img src="https://img.shields.io/badge/FRIDGELY-8E2DE2?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117" /></a>
 
 <br/><br/>
 
