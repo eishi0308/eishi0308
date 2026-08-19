@@ -23,7 +23,7 @@ I turn LLMs into products people actually use — from scraping pipelines to pix
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,35:4A00E0,70:8E2DE2,100:FF6B9D&height=4&section=header" alt="divider" />
 
 <!-- ═══════════════════════════ WHOAMI BLOCK ════════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32" /> &nbsp;`whoami`
@@ -47,7 +47,7 @@ const eishi: SoftwareEngineer = {
 };
 ```
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,35:4A00E0,70:8E2DE2,100:FF6B9D&height=4&section=header" alt="divider" />
 
 <!-- ═══════════════════════════ EXPERIENCE ═════════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="32" /> &nbsp;Where I'm Building
@@ -65,10 +65,10 @@ const eishi: SoftwareEngineer = {
 >
 > 💳 &nbsp;**Shipped Pinch Payments API integration in a 48-hour hackathon** — subscription plans, credit packages, and usage-based billing for AI services.
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,35:4A00E0,70:8E2DE2,100:FF6B9D&height=4&section=header" alt="divider" />
 
 <!-- ═════════════════════════ FEATURED PROJECTS ════════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Rocket.png" width="32" /> &nbsp;Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" /> &nbsp;Featured Projects
 
 <!-- ─────────────────────────── MATCHASCOPE ──────────────────────────────── -->
 <div align="center">
@@ -164,7 +164,7 @@ const eishi: SoftwareEngineer = {
 | [**Spatial & Relational DBs**](https://github.com/eishi0308) | Waste management, timeshare booking, PTV spatial data — normalization, ERD, spatial querying | `Oracle SQL` `PostGIS` |
 | [**Java Games**](https://github.com/eishi0308/HighwayEscape-) | OOP games & simulations — HighwayEscape, Quokka Selfie Quest, Dart-ificial Intelligence | `Java` |
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,35:4A00E0,70:8E2DE2,100:FF6B9D&height=4&section=header" alt="divider" />
 
 <!-- ═══════════════════════════ TECH ARSENAL ═══════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" /> &nbsp;Tech Arsenal
@@ -208,7 +208,7 @@ const eishi: SoftwareEngineer = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,35:4A00E0,70:8E2DE2,100:FF6B9D&height=4&section=header" alt="divider" />
 
 <!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="32" /> &nbsp;GitHub Battle Stats
@@ -234,7 +234,7 @@ const eishi: SoftwareEngineer = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,35:4A00E0,70:8E2DE2,100:FF6B9D&height=4&section=header" alt="divider" />
 
 <!-- ══════════════════════════ SNAKE ANIMATION ═════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="32" /> &nbsp;Watch My Commits Get Devoured
@@ -249,24 +249,7 @@ const eishi: SoftwareEngineer = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
-
-<!-- ═══════════════════════════ EDUCATION ══════════════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="32" /> &nbsp;Education
-
-<div align="center">
-
-| | Degree | Where | When |
-|---|---|---|---|
-| 🎓 | **Master of Information Technology** | Monash University · Melbourne 🇦🇺 | Feb 2022 – Jun 2024 |
-| 📖 | **Bachelor of Social Science** | Gakushuin University · Tokyo 🇯🇵 | Apr 2017 – Mar 2021 |
-
-</div>
-
-> **Coursework:** Web Application Development · Python · Java · Cloud Computing · Software Engineering · Advanced Databases · UI/UX Design · Data Wrangling
-> **Capstone:** Designed, built and deployed a production-ready full-stack web app end to end inside a multidisciplinary Agile team.
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,35:4A00E0,70:8E2DE2,100:FF6B9D&height=4&section=header" alt="divider" />
 
 <!-- ═══════════════════════════ BONUS LEVEL ════════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="32" /> &nbsp;More Than Code
@@ -293,7 +276,7 @@ const eishi: SoftwareEngineer = {
 
 </details>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,35:4A00E0,70:8E2DE2,100:FF6B9D&height=4&section=header" alt="divider" />
 
 <!-- ═════════════════════════════ CONNECT ══════════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" /> &nbsp;Let's Build Something
