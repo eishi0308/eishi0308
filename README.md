@@ -78,7 +78,6 @@ const eishi: SoftwareEngineer = {
 <a href="https://matchascope.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-00C9A7?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="https://github.com/eishi0308/matcha-license"><img src="https://img.shields.io/badge/%F0%9F%93%82%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
-<a href="https://github.com/eishi0308/matcha-license"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eishi0308&repo=matcha-license&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=8E2DE2&text_color=c9d1d9" /></a>
 
 <img src="https://skillicons.dev/icons?i=java,spring,nextjs,react,ts,postgres,supabase,vercel&theme=dark&perline=8" />
 
@@ -97,10 +96,8 @@ const eishi: SoftwareEngineer = {
 
 ### 🍽️ &nbsp;DecideMyMeal &nbsp;·&nbsp; *Kill decision fatigue at dinner time*
 
-<a href="https://pick-my-meal-iota.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-FF6B9D?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="https://github.com/eishi0308/PickMyMeal"><img src="https://img.shields.io/badge/%F0%9F%93%82%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
-<a href="https://github.com/eishi0308/PickMyMeal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eishi0308&repo=PickMyMeal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=8E2DE2&text_color=c9d1d9" /></a>
 
 <img src="https://skillicons.dev/icons?i=react,ts,vite,python,fastapi,vercel&theme=dark&perline=6" />
 
@@ -121,7 +118,6 @@ const eishi: SoftwareEngineer = {
 
 <a href="https://github.com/eishi0308/ecopallet-next"><img src="https://img.shields.io/badge/%F0%9F%93%82%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
-<a href="https://github.com/eishi0308/ecopallet-next"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eishi0308&repo=ecopallet-next&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9A7&text_color=c9d1d9" /></a>
 
 <img src="https://skillicons.dev/icons?i=react,python,fastapi,netlify&theme=dark&perline=4" />
 
@@ -219,20 +215,22 @@ const eishi: SoftwareEngineer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eishi0308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=8E2DE2&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eishi0308&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=c9d1d9&langs_count=8" />
+<img width="88%" src="https://raw.githubusercontent.com/eishi0308/eishi0308/main/metrics/overview.svg" alt="overview" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=eishi0308&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9A7&fire=FF6B9D&currStreakLabel=00C9A7" />
+<img width="47%" src="https://raw.githubusercontent.com/eishi0308/eishi0308/main/metrics/languages.svg" alt="languages" />
+<img width="47%" src="https://streak-stats.demolab.com?user=eishi0308&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9A7&fire=FF6B9D&currStreakLabel=00C9A7" alt="streak" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eishi0308&theme=tokyo-night&bg_color=0D1117&color=00C9A7&line=8E2DE2&point=FFFFFF&area=true&hide_border=true" />
+<b>🧊 &nbsp;A Year of Commits, in Isometric</b>
+
+<img width="88%" src="https://raw.githubusercontent.com/eishi0308/eishi0308/main/metrics/isocalendar.svg" alt="isocalendar" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=eishi0308&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eishi0308&theme=tokyo-night&bg_color=0D1117&color=00C9A7&line=8E2DE2&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
 
 </div>
 
