@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9A7,25:4A00E0,60:8E2DE2,100:FF6B9D&text=Eishi&fontSize=90&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20AI%20Product%20Builder&descSize=20&descAlignY=52&animation=fadeIn" alt="header" />
 
 <!-- ═════════════════════════ TYPING ANIMATION ══════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=27&pause=800&color=00C9A7&center=true&vCenter=true&width=780&height=70&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Java+%C2%B7+Spring+Boot;I+build+AI+products+that+actually+ship+%F0%9F%A4%96;1%2C100%2B+cafes+classified+by+GPT-4o+%F0%9F%8D%B5;75%25+faster+load+times%2C+0%25+AI+hallucinations+%E2%9A%A1;Every+AI+claim+traced+to+its+source+%F0%9F%9B%A1%EF%B8%8F" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=27&pause=800&color=00C9A7&center=true&vCenter=true&width=780&height=70&lines=Full-Stack+Software+Engineer;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Java;Spring+Boot+%C2%B7+FastAPI+%C2%B7+Flask+%C2%B7+AWS;Building+AI-powered+web+applications;Sydney%2C+Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="typing" />
 
 <br/>
 
