@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9A7,25:4A00E0,60:8E2DE2,100:FF6B9D&text=Eishi&fontSize=90&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20AI%20Product%20Builder&descSize=20&descAlignY=52&animation=fadeIn" alt="header" />
 
 <!-- ═════════════════════════ TYPING ANIMATION ══════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=27&pause=800&color=00C9A7&center=true&vCenter=true&width=780&height=70&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Java+%C2%B7+Spring+Boot;I+build+AI+products+that+actually+ship+%F0%9F%A4%96;1%2C100%2B+cafes+classified+by+GPT-4o+%F0%9F%8D%B5;75%25+faster+load+times%2C+0%25+AI+hallucinations+%E2%9A%A1;Master's+in+IT+%40+Monash+University+%F0%9F%8E%93" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=27&pause=800&color=00C9A7&center=true&vCenter=true&width=780&height=70&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Java+%C2%B7+Spring+Boot;I+build+AI+products+that+actually+ship+%F0%9F%A4%96;1%2C100%2B+cafes+classified+by+GPT-4o+%F0%9F%8D%B5;75%25+faster+load+times%2C+0%25+AI+hallucinations+%E2%9A%A1;Every+AI+claim+traced+to+its+source+%F0%9F%9B%A1%EF%B8%8F" alt="typing" />
 
 <br/>
 
@@ -18,8 +18,10 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
 
-**Graduate Software Engineer** · Master of IT, Monash University
-I turn LLMs into products people actually use — from scraping pipelines to pixel-perfect React.
+### 🛠️ &nbsp;I build AI products end to end — and I make them *provable*
+
+**Scraping pipelines · LLM verification layers · production React** — shipped, deployed, live.
+Currently rebuilding an agentic AI platform at **ReCo** in Sydney 🇦🇺
 
 </div>
 
@@ -32,7 +34,6 @@ I turn LLMs into products people actually use — from scraping pipelines to pix
 const eishi: SoftwareEngineer = {
   role:     "Full-Stack Software Engineer",
   location: "Sydney, Australia 🇦🇺",
-  education: "Master of Information Technology @ Monash University",
   languages: ["TypeScript", "Python", "Java", "JavaScript", "C#", "SQL"],
   stack: {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind", "Vite"],
