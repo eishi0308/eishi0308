@@ -1,101 +1,236 @@
-<!-- ══════════════════════════ ANIMATED WAVE HEADER ══════════════════════════ -->
+<!-- ════════════════════════════ ANIMATED HEADER ════════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8E2DE2,50:4A00E0,100:00D4FF&text=Eishi&fontSize=80&fontColor=ffffff&fontAlignY=34&desc=full-stack%20software%20engineer%20%C2%B7%20building%20with%20AI&descSize=18&descAlignY=54&animation=fadeIn&stroke=ffffff&strokeWidth=0" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9A7,25:4A00E0,60:8E2DE2,100:FF6B9D&text=Eishi&fontSize=90&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20AI%20Product%20Builder&descSize=20&descAlignY=52&animation=fadeIn" alt="header" />
 
-<!-- ═══════════════════════════ TYPING ANIMATION ════════════════════════════ -->
-<a href="https://github.com/eishi0308">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;I+ship+products%2C+not+tutorials+%E2%9C%A8;Backend+%E2%86%92+Frontend+%E2%86%92+AI+%E2%86%92+Production+%F0%9F%A4%96;Turning+caffeine+into+clean+architecture+%E2%98%95" alt="typing" />
-</a>
+<!-- ═════════════════════════ TYPING ANIMATION ══════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=27&pause=800&color=00C9A7&center=true&vCenter=true&width=780&height=70&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Java+%C2%B7+Spring+Boot;I+build+AI+products+that+actually+ship+%F0%9F%A4%96;1%2C100%2B+cafes+classified+by+GPT-4o+%F0%9F%8D%B5;75%25+faster+load+times%2C+0%25+AI+hallucinations+%E2%9A%A1;Master's+in+IT+%40+Monash+University+%F0%9F%8E%93" alt="typing" />
 
 <br/>
 
 <!-- ═══════════════════════════════ BADGES ══════════════════════════════════ -->
-<img src="https://komarev.com/ghpvc/?username=eishi0308&label=PROFILE+VIEWS&color=8E2DE2&style=for-the-badge" alt="views" />
-<a href="https://github.com/eishi0308?tab=followers"><img src="https://img.shields.io/github/followers/eishi0308?label=FOLLOWERS&style=for-the-badge&color=4A00E0&labelColor=1a1b27" alt="followers" /></a>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20FULL--STACK-00D4FF?style=for-the-badge&labelColor=1a1b27" alt="focus" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20%F0%9F%94%A5-FF6B6B?style=for-the-badge&labelColor=1a1b27" alt="status" />
+<img src="https://komarev.com/ghpvc/?username=eishi0308&label=PROFILE+VIEWS&color=00C9A7&style=for-the-badge" alt="views" />
+<a href="https://github.com/eishi0308?tab=followers"><img src="https://img.shields.io/github/followers/eishi0308?label=FOLLOWERS&style=for-the-badge&color=8E2DE2&labelColor=0D1117" /></a>
+<img src="https://img.shields.io/badge/BASED%20IN-SYDNEY%20%F0%9F%87%A6%F0%9F%87%BA-FF6B9D?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK%20%F0%9F%9A%80-00C9A7?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" />
-<b>Hey, I'm Eishi.</b> I design and ship complete products — API to pixel to model.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
+
+**Graduate Software Engineer** · Master of IT, Monash University
+I turn LLMs into products people actually use — from scraping pipelines to pixel-perfect React.
 
 </div>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
 
-<!-- ═════════════════════════════ WHOAMI BLOCK ══════════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> &nbsp;`whoami`
+<!-- ═══════════════════════════ WHOAMI BLOCK ════════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32" /> &nbsp;`whoami`
 
 ```ts
-const eishi = {
-  role:      "Full-Stack Software Engineer",
-  focus:     ["AI-powered products", "clean architecture", "shipping fast"],
+const eishi: SoftwareEngineer = {
+  role:     "Full-Stack Software Engineer",
+  location: "Sydney, Australia 🇦🇺",
+  education: "Master of Information Technology @ Monash University",
+  languages: ["TypeScript", "Python", "Java", "JavaScript", "C#", "SQL"],
   stack: {
-    backend:  [".NET / C#", "ASP.NET Core", "Node.js", "Python"],
-    frontend: ["Blazor", "React", "TypeScript", "Tailwind"],
-    data:     ["EF Core", "PostgreSQL", "SQLite", "Redis"],
-    ai:       ["LLM apps", "RAG pipelines", "agents", "prompt engineering"],
-    cloud:    ["Azure", "Docker", "GitHub Actions"],
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind", "Vite"],
+    backend:  ["Spring Boot", "FastAPI", "Flask", "Node.js", "ASP.NET MVC"],
+    data:     ["PostgreSQL", "Supabase", "Oracle SQL", "PostGIS", "MS SQL"],
+    ai:       ["OpenAI API", "Claude API", "Prompt Engineering", "RAG"],
+    cloud:    ["AWS (S3 · Lambda · Cognito)", "Docker", "Kubernetes", "CI/CD"],
   },
-  currently: "building AI-native web apps end to end",
-  philosophy: "make it work → make it right → make it beautiful",
-  funFact:   "I'd rather ship one real product than finish ten tutorials 🚢",
+  currently: "Building an agentic AI content platform @ ReCo",
+  obsession: "Making AI outputs verifiable — no hallucinations, ever",
+  spokenLanguages: ["日本語 (native)", "English (fluent)"],
 };
 ```
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
 
-<!-- ═══════════════════════════ TECH ARSENAL ═══════════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp;Tech Arsenal
+<!-- ═══════════════════════════ EXPERIENCE ═════════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="32" /> &nbsp;Where I'm Building
 
 <div align="center">
 
-**⚙️ &nbsp;Languages & Runtimes**
+<img src="https://img.shields.io/badge/ReCo-Full--Stack%20Software%20Engineering%20Intern-00C9A7?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Sydney-Jul%202026%20%E2%80%94%20Present-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,python,nodejs,html,css&theme=dark&perline=8" />
+</div>
 
-**🎨 &nbsp;Frontend & UI**
+> 🤖 &nbsp;**Rebuilding the frontend of an agentic AI content platform from the ground up** — translating Figma designs into a functional React interface for AI research and content-generation workflows.
+>
+> 🕸️ &nbsp;**Built an automated AI web-crawling & prospect qualification pipeline** — cleans Apollo CSV exports, analyses company homepages, and classifies businesses by category using the **Claude API**, auto-separating target companies from irrelevant prospects.
+>
+> 💳 &nbsp;**Shipped Pinch Payments API integration in a 48-hour hackathon** — subscription plans, credit packages, and usage-based billing for AI services.
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+
+<!-- ═════════════════════════ FEATURED PROJECTS ════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Rocket.png" width="32" /> &nbsp;Featured Projects
+
+<!-- ─────────────────────────── MATCHASCOPE ──────────────────────────────── -->
+<div align="center">
+
+### 🍵 &nbsp;MatchaScope &nbsp;·&nbsp; *Is your matcha actually from Japan?*
+
+<a href="https://matchascope.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-00C9A7?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://github.com/eishi0308/matcha-license"><img src="https://img.shields.io/badge/%F0%9F%93%82%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+
+<a href="https://github.com/eishi0308/matcha-license"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eishi0308&repo=matcha-license&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=8E2DE2&text_color=c9d1d9" /></a>
+
+<img src="https://skillicons.dev/icons?i=java,spring,nextjs,react,ts,postgres,supabase,vercel&theme=dark&perline=8" />
+
+</div>
+
+|  | |
+|---|---|
+| 🔍 | **Discovered and classified 1,100+ cafes** across Sydney and Melbourne via an automated pipeline — Google Places API + Jsoup + GPT-4o rating sourcing transparency on an A–D scale |
+| 📊 | **Revealed only 14% of cafes disclose their matcha origin** using a multi-page scraper analysing About, Menu and sourcing pages |
+| 🛡️ | **Eliminated AI hallucinations entirely** with a two-stage verification pipeline that validates every GPT-4o evidence quote against the original scraped content and auto-downgrades unverifiable results |
+
+<br/>
+
+<!-- ────────────────────────── DECIDEMYMEAL ──────────────────────────────── -->
+<div align="center">
+
+### 🍽️ &nbsp;DecideMyMeal &nbsp;·&nbsp; *Kill decision fatigue at dinner time*
+
+<a href="https://pick-my-meal-iota.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-FF6B9D?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://github.com/eishi0308/PickMyMeal"><img src="https://img.shields.io/badge/%F0%9F%93%82%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+
+<a href="https://github.com/eishi0308/PickMyMeal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eishi0308&repo=PickMyMeal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=8E2DE2&text_color=c9d1d9" /></a>
+
+<img src="https://skillicons.dev/icons?i=react,ts,vite,python,fastapi,vercel&theme=dark&perline=6" />
+
+</div>
+
+|  | |
+|---|---|
+| ⚡ | **Cut perceived wait time by 75%** — 25.5s → 6.4s — by preloading recipe data and background-loading images before the recipe page opens |
+| 🎯 | **AI meal recommendations across 13 preference parameters** via GPT-4o-mini integrated into a React + FastAPI app |
+| 🔁 | **Zero duplicate suggestions per session** by tracking previous recommendations and feeding them into subsequent prompts |
+
+<br/>
+
+<!-- ──────────────────────────── FRIDGELY ────────────────────────────────── -->
+<div align="center">
+
+### 🧊 &nbsp;Fridgely &nbsp;·&nbsp; *Your fridge, but it thinks*
+
+<a href="https://github.com/eishi0308/ecopallet-next"><img src="https://img.shields.io/badge/%F0%9F%93%82%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+
+<a href="https://github.com/eishi0308/ecopallet-next"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eishi0308&repo=ecopallet-next&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9A7&text_color=c9d1d9" /></a>
+
+<img src="https://skillicons.dev/icons?i=react,python,fastapi,netlify&theme=dark&perline=4" />
+
+</div>
+
+|  | |
+|---|---|
+| 🧾 | **Killed manual grocery entry** — 3 async FastAPI endpoints + GPT-4o-mini clean item names, classify categories and estimate expiry dates, auto-filling **100%** of item fields from Woolworths PDF e-receipts |
+| 📉 | **Waste visibility across 15 grocery categories** — React + Chart.js dashboard tracking wasted vs. saved spend, top-5 most-wasted items, and weekly/monthly trends |
+| ♻️ | **Real-time recipe-to-inventory sync** — recommends meals from your 3 soonest-expiring ingredients and updates quantities live on completion |
+
+<br/>
+
+<!-- ──────────────────────────── ECOPALLETE ──────────────────────────────── -->
+<div align="center">
+
+### 🌱 &nbsp;EcoPallete &nbsp;·&nbsp; *Monash Industry Capstone · 5-person Agile team*
+
+<img src="https://skillicons.dev/icons?i=react,js,python,flask,netlify,git&theme=dark&perline=6" />
+
+</div>
+
+|  | |
+|---|---|
+| 🗂️ | **React CRUD inventory** with 8-item pagination, localStorage persistence and 3-tier colour-coded alerts (Safe / Warning / Expired) |
+| 📷 | **2 Python Flask OCR REST APIs** auto-populating inventory from Woolworths receipt photos and package expiry labels |
+| 🥘 | **15 recipe recommendations** from the 3 items closest to expiry via Spoonacular API + preservation lookups across **700+ USDA FoodKeeper records** |
+| 🚢 | **Shipped on time** — React → Netlify, Flask → PythonAnywhere, twice-weekly stakeholder feedback |
+
+<br/>
+
+<div align="center">
+
+### 🧪 &nbsp;Also In The Lab
+
+</div>
+
+| Project | What It Is | Stack |
+|---|---|---|
+| [**mama-kitchen**](https://github.com/eishi0308/mama-kitchen) | Hyperlocal homemade-food marketplace — cooks post scheduled food drops, buyers reserve and pay | `C#` `.NET 9` `Blazor` `EF Core` `SQLite` |
+| [**rock-fragmentation-analysis**](https://github.com/eishi0308/rock-fragmentation-analysis) | Image-based rock fragmentation analysis | `Python` |
+| [**Cloudiod & CloudSnap**](https://github.com/eishi0308) | Cloud image-detection + serverless storage: object detection, tagging, auth, scalable deploy | `Flask` `AWS S3` `Lambda` `Cognito` `Docker` `K8s` |
+| [**MedSecure Portal**](https://github.com/eishi0308) | Role-based medical management system with auth, validation, secure data handling | `ASP.NET MVC` `MS SQL` |
+| [**Spatial & Relational DBs**](https://github.com/eishi0308) | Waste management, timeshare booking, PTV spatial data — normalization, ERD, spatial querying | `Oracle SQL` `PostGIS` |
+| [**Java Games**](https://github.com/eishi0308/HighwayEscape-) | OOP games & simulations — HighwayEscape, Quokka Selfie Quest, Dart-ificial Intelligence | `Java` |
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+
+<!-- ═══════════════════════════ TECH ARSENAL ═══════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" /> &nbsp;Tech Arsenal
+
+<div align="center">
+
+**⚙️ &nbsp;Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,html,css&theme=dark&perline=7" />
+
+**🎨 &nbsp;Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma&theme=dark&perline=6" />
 
-**🧠 &nbsp;AI & Data**
+**🔧 &nbsp;Backend**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres,sqlite,redis&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs,dotnet&theme=dark&perline=5" />
+
+**🗄️ &nbsp;Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite&theme=dark&perline=3" />
+<br/>
+<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117" />
+
+**🤖 &nbsp;AI & APIs**
+
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Google%20Places-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-00C9A7?style=for-the-badge&labelColor=0D1117" />
 
 **☁️ &nbsp;Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=azure,docker,githubactions,git,github,linux,vscode,visualstudio&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,github,vercel,netlify,heroku&theme=dark&perline=9" />
+
+**🛠️ &nbsp;Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,postman,linux&theme=dark&perline=5" />
 
 </div>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
 
 <!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="30" /> &nbsp;GitHub Battle Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="32" /> &nbsp;GitHub Battle Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eishi0308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=8E2DE2&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eishi0308&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eishi0308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=8E2DE2&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eishi0308&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=eishi0308&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
+<img src="https://streak-stats.demolab.com?user=eishi0308&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9A7&fire=FF6B9D&currStreakLabel=00C9A7" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eishi0308&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=8E2DE2&point=FFFFFF&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eishi0308&theme=tokyo-night&bg_color=0D1117&color=00C9A7&line=8E2DE2&point=FFFFFF&area=true&hide_border=true" />
 
-</div>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
-
-<!-- ═════════════════════════════ TROPHIES ═════════════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> &nbsp;Trophy Cabinet
-
-<div align="center">
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=eishi0308&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
@@ -104,7 +239,7 @@ const eishi = {
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
 
 <!-- ══════════════════════════ SNAKE ANIMATION ═════════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> &nbsp;My Contributions Get Eaten
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="32" /> &nbsp;Watch My Commits Get Devoured
 
 <div align="center">
 
@@ -118,8 +253,25 @@ const eishi = {
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
 
-<!-- ═══════════════════════════ EXPANDABLE FUN ═════════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="30" /> &nbsp;More Than Code
+<!-- ═══════════════════════════ EDUCATION ══════════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="32" /> &nbsp;Education
+
+<div align="center">
+
+| | Degree | Where | When |
+|---|---|---|---|
+| 🎓 | **Master of Information Technology** | Monash University · Melbourne 🇦🇺 | Feb 2022 – Jun 2024 |
+| 📖 | **Bachelor of Social Science** | Gakushuin University · Tokyo 🇯🇵 | Apr 2017 – Mar 2021 |
+
+</div>
+
+> **Coursework:** Web Application Development · Python · Java · Cloud Computing · Software Engineering · Advanced Databases · UI/UX Design · Data Wrangling
+> **Capstone:** Designed, built and deployed a production-ready full-stack web app end to end inside a multidisciplinary Agile team.
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+
+<!-- ═══════════════════════════ BONUS LEVEL ════════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="32" /> &nbsp;More Than Code
 
 <details>
 <summary><b>🎮 &nbsp;Click to unlock the bonus level</b></summary>
@@ -129,10 +281,10 @@ const eishi = {
 | | |
 |---|---|
 | 🧩 &nbsp;**Favourite problem** | Anything where the naive solution is 100 lines and the right one is 10 |
-| 🌏 &nbsp;**Working style** | Async, documented, ship-small-and-often |
-| 🎧 &nbsp;**Debugging fuel** | Lo-fi + one very cold coffee |
-| 🤖 &nbsp;**AI take** | Best used as a power tool, not an autopilot |
-| 📚 &nbsp;**Learning now** | Agentic architectures, distributed systems, Azure at scale |
+| 🛡️ &nbsp;**Engineering principle** | If an LLM says it, verify it against the source. Always. |
+| 🌏 &nbsp;**Languages I speak** | 日本語 (native) · English (fluent) |
+| 🎧 &nbsp;**Debugging fuel** | Lo-fi, one very cold coffee, and genuinely good matcha |
+| 📚 &nbsp;**Learning now** | Agentic architectures · distributed systems · production LLM evaluation |
 | 🐛 &nbsp;**Worst bug ever** | It was a timezone. It is *always* a timezone. |
 
 <br/>
@@ -146,14 +298,14 @@ const eishi = {
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
 
 <!-- ═════════════════════════════ CONNECT ══════════════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> &nbsp;Let's Build Something
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" /> &nbsp;Let's Build Something
 
 <div align="center">
 
-<a href="mailto:eishi.stab@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
-<a href="https://github.com/eishi0308"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
-<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" /></a>
+<a href="mailto:eishi.stab@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/eishi0308"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://matchascope.vercel.app"><img src="https://img.shields.io/badge/MATCHASCOPE-00C9A7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 
 <br/><br/>
 
@@ -161,5 +313,5 @@ const eishi = {
 
 </div>
 
-<!-- ══════════════════════════ WAVE FOOTER ═════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00D4FF,50:4A00E0,100:8E2DE2&section=footer&text=thanks%20for%20scrolling&fontSize=26&fontColor=ffffff&fontAlignY=72&animation=fadeIn" alt="footer" />
+<!-- ═══════════════════════════ WAVE FOOTER ════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:FF6B9D,40:8E2DE2,75:4A00E0,100:00C9A7&section=footer&text=thanks%20for%20scrolling%20%E2%9C%A8&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="footer" />
