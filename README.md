@@ -18,10 +18,12 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
 
-### 🛠️ &nbsp;I build AI products end to end — and I make them *provable*
+### 🛠️ &nbsp;I turn ideas into products people actually use
 
-**Scraping pipelines · LLM verification layers · production React** — shipped, deployed, live.
-Currently rebuilding an agentic AI platform at **ReCo** in Sydney 🇦🇺
+**Software and AI, pointed at real problems** — not AI for the sake of AI.
+I find the question behind the question, then ship the thing that answers it.
+
+🍵 *matcha transparency* &nbsp;·&nbsp; 🍽️ *decision fatigue* &nbsp;·&nbsp; ♻️ *food waste* &nbsp;·&nbsp; 🇯🇵🤝🇦🇺 *Japan–Australia*
 
 </div>
 
@@ -55,8 +57,8 @@ const eishi: SoftwareEngineer = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ReCo-Full--Stack%20Software%20Engineering%20Intern-00C9A7?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Sydney-Jul%202026%20%E2%80%94%20Present-8E2DE2?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/NOW%20AT-ReCo%20%C2%B7%20Sydney-00C9A7?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Full--Stack%20SWE-Jul%202026%20%E2%80%94%20Present-8E2DE2?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
